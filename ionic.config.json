@@ -1,0 +1,15 @@
+{
+  "name": "mobile-training-sitestree",
+  "app_id": "1583f019",
+  "type": "ionic1",
+  "integrations": {
+    "gulp": {},
+    "cordova": {}
+  },
+  "watchPatterns": [
+    "scss/**/*",
+    "www/**/*",
+    "!www/lib/**/*",
+    "!www/**/*.map"
+  ]
+}
